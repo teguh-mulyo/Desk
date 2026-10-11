@@ -1,5 +1,5 @@
 # Second Monitor With Side Screen
-My mac connect to android tablet became second monitor
+x connect to android tablet became second monitor
 <br>
 
 ### Tools Usage
