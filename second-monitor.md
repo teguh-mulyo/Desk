@@ -39,4 +39,12 @@ https://github.com/tranvuongquocdat/SideScreen/releases/tag/0.11.3
 ---
 
 ### On Your Android
-ADB Required: The Mac app needs adb to communicate with your Android device. If the app doesn't show "Running", install ADB first:
+Setup as developer mode on your mobile and install apk
+
+1. Download SideScreen-0.11.3-android.apk
+```
+https://github.com/tranvuongquocdat/SideScreen/releases/tag/0.11.3
+```
+
+2. Install apk
+3. Connect by Wireless (with same SSID) or USB
