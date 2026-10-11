@@ -7,6 +7,9 @@ Install sidescreen on mac and android
 https://www.sidescreen.dev/
 ```
 
+---
+
+
 ### On Your Mac
 ADB Required: The Mac app needs adb to communicate with your Android device. If the app doesn't show "Running", install ADB first:
 
