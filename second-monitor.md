@@ -1,7 +1,7 @@
-### Second Monitor With Side Screen
+# Second Monitor With Side Screen
 My mac connect to android tablet became second monitor
 
-## Tools Usage
+### Tools Usage
 Install sidescreen on mac and android
 
 ...
