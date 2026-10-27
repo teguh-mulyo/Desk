@@ -48,3 +48,4 @@ https://github.com/tranvuongquocdat/SideScreen/releases/tag/0.11.3
 
 2. Install apk
 3. Connect by Wireless (with same SSID) or USB
+    * Make sure, your desk
